@@ -1,2 +1,4 @@
-# pycharm-gitpod-template
-Updating the pycharm template to use only utlimate
+# PyCharm Gitpod template
+
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/martyjhenderson/pycharm-gitpod-template)
